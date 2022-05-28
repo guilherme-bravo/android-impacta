@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977173290050",
+    "project_id": "pokedex-20dda",
+    "storage_bucket": "pokedex-20dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977173290050:android:aca8ae2872f6cd119861db",
+        "android_client_info": {
+          "package_name": "br.com.mobile.cem_criatividade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977173290050-4hdu0gc1quk0cj5r6ne9eshlu90irrv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWRsc3xB541njZsr9qJrUr9qcWk4AulE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977173290050-4hdu0gc1quk0cj5r6ne9eshlu90irrv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
